@@ -2,7 +2,7 @@
 A simple script to download my uploaded Clover themes from https://sourceforge.net/p/cloverefiboot/themes.
 
 # How to Use:
-1. Clone the repository with: $ git clone https://github.com/badruzeus/MyCloverThemes
+1. Clone the repository with: `git clone https://github.com/badruzeus/MyCloverThemes`
 2. Run the script:
 
 <br>`cd MyCloverThemes`

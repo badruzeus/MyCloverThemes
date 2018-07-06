@@ -9,9 +9,9 @@ A simple script to download my uploaded Clover themes from https://sourceforge.n
 <br>`./MyCloverThemes.sh`
 
 All downloaded themes are placed on <b>~/Desktop/themes</b>.
-Simply move your choosen theme to <b>/EFI/CLOVER/themes</b>.
-Then activate it from <b>config.plist > GUI > Theme</b>
-or using Terminal: $ <b>sudo nvram Clover.Theme="Name"</b>.
+<br>Simply move your choosen theme to <b>/EFI/CLOVER/themes</b>.
+<br>Then activate it from <b>config.plist > GUI > Theme</b>
+<br>or using Terminal: $ <b>sudo nvram Clover.Theme="Name"</b>.
 
 
 ![Themes-Preview](https://github.com/badruzeus/MyCloverThemes/blob/master/Themes-Preview.png)

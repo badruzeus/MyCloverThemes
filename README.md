@@ -12,3 +12,7 @@ All downloaded themes are placed on ~/Desktop/themes. Simply move your choosen t
 
 
 ![Themes-Preview](https://github.com/badruzeus/MyCloverThemes/blob/master/Themes-Preview.png)
+
+# Credits:
+Apianti, blackosx, blusseau, dmazar, slice2009 for Clover Bootloader
+All of you whom test the script.

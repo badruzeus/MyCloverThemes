@@ -56,6 +56,7 @@ git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/Ou
 git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/QB | tar -x -v
 git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/QBDark256 | tar -x -v
 git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/Retina | tar -x -v
+git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/Retina4k | tar -x -v
 git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/Retina256 | tar -x -v
 git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/Romance | tar -x -v
 git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/SilverLight | tar -x -v

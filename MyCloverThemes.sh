@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo -e "Start downloading Themes collection..."
 cd ~/Desktop
 
 git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/Aero | tar -x -v
@@ -46,6 +47,8 @@ git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/Ma
 git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/Material256 | tar -x -v
 git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/MaterialBox | tar -x -v
 git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/MaterialDark | tar -x -v
+git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/Mojave | tar -x -v
+git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/Mojave4k | tar -x -v
 git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/Neon | tar -x -v
 git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/Neon256 | tar -x -v
 git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/Nightwish | tar -x -v
@@ -68,4 +71,5 @@ git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/Sp
 git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/Woody | tar -x -v
 git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/Xmas | tar -x -v
 
+echo -e "Done! Themes download succeeded. Go to ~/Desktop/themes. Enjoy!"
 exit 0

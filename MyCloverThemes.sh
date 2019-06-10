@@ -10,6 +10,7 @@ git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/Be
 git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/BeautyX | tar -x -v
 git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/Buttons | tar -x -v
 git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/Carbon | tar -x -v
+git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/Catalina | tar -x -v
 git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/Chamelia | tar -x -v
 git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/Circla | tar -x -v
 git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/Classical | tar -x -v

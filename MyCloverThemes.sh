@@ -51,8 +51,8 @@ git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/Re
 git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/Romance | tar -x -v
 git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/SilverLight | tar -x -v
 git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/Smooth | tar -x -v
-git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/SmoothDark | tar -x -v
 git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/Sphere | tar -x -v
+git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/Underground | tar -x -v
 git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/Woody | tar -x -v
 git archive --remote=git://git.code.sf.net/p/cloverefiboot/themes HEAD themes/Xmas | tar -x -v
 

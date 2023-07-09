@@ -16,3 +16,6 @@ All downloaded themes are placed on <b>~/Desktop/themes</b>, move your choosen t
 ### Credits:
 - Apianti, blackosx, blusseau, dmazar, slice2009 for Clover Bootloader
 - Hackintosh communities and all of you whom test the script.
+
+Bring me to Life:
+[Donate](https://www.paypal.com/paypalme/badruzeusshava)
